@@ -1,1 +1,1 @@
-![RBXCore Thumbnail]([https://github.com/user-attachments/assets/bc690db1-046a-49cb-b365-0492accd4907](https://raw.githubusercontent.com/RBX-Core/.github/refs/heads/main/profile/Thumbnail.png))
+![RBXCore Thumbnail](https://raw.githubusercontent.com/RBX-Core/.github/refs/heads/main/profile/Thumbnail.png))
